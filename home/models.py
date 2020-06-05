@@ -69,3 +69,8 @@ class HomePage(models.Model):
 class Usersfg(models.Model):
     "Generated Model"
     yufgh = models.BigIntegerField()
+
+
+class Rxh(models.Model):
+    "Generated Model"
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx = models.BigIntegerField()
